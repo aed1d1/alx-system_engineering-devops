@@ -5,4 +5,5 @@ This REDME gives descriptions about each script in this directory.
 2-groups = It prints the groups the current user is part of.
 3-new_owner = It changes the owner of file 'hello' to Betty.
 4-empty = It creates an empty file 'hello'
+5-execute = It adds execute to existing user permission for file 'hello'
 
