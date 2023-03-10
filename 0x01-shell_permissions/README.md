@@ -6,4 +6,5 @@ This REDME gives descriptions about each script in this directory.
 3-new_owner = It changes the owner of file 'hello' to Betty.
 4-empty = It creates an empty file 'hello'
 5-execute = It adds execute to existing user permission for file 'hello'
+6-multiple_permissions = It gives r-xr-xr-- to file 'hello'
 
