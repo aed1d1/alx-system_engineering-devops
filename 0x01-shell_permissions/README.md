@@ -7,4 +7,5 @@ This REDME gives descriptions about each script in this directory.
 4-empty = It creates an empty file 'hello'
 5-execute = It adds execute to existing user permission for file 'hello'
 6-multiple_permissions = It gives r-xr-xr-- to file 'hello'
+7-everybody = It grants execution permission to everyone
 
